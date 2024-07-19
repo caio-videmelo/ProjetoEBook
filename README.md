@@ -1,4 +1,4 @@
-# ProjetoEBook
+# Projeto E-Book: Análise de Alterações Cerebrais de Usuários de Cocaína e Crack
 Projeto E-Book da plataforma DIO.me
 
 //Título criado a partir de edição de sugestões realizadas pelo ChatGPT 4º;
