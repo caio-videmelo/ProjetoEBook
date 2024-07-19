@@ -192,4 +192,4 @@ We thank the Brazilian Council of Scientific and Technological Development, gran
 
 ChatGPT: 💰 Agradecemos ao Conselho Brasileiro de Desenvolvimento Científico e Tecnológico (grant #402721/2010-1), à Fundação de Amparo à Pesquisa do Estado de São Paulo (grant #2010/01272-6) e à Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (grant #1703165) pelo apoio financeiro na aquisição de dados e no desenvolvimento deste trabalho. Os autores declaram que não houve conflito de interesse na pesquisa. 🙌🔬
 
-//Depois, edições e revisões humanas foram realizadas para finalizar a produção da versão em E-book da minha dissertaçãode mestrado.
+//Depois, edições e revisões humanas foram realizadas para finalizar a produção da versão em E-book da minha dissertação de mestrado.
